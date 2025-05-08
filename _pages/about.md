@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Xiang Li"
+excerpt: "Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
