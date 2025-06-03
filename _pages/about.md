@@ -33,7 +33,7 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 **Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, and Yanwei Yu*
 
 
-- [Dual-Channel Multiplex Graph Neural Networks for Recommendation (IEEE TKDE)](https://github.com)
+- [Dual-Channel Multiplex Graph Neural Networks for Recommendation (IEEE TKDE)](https://ieeexplore.ieee.org/abstract/document/10909460)
 
 **Xiang Li**, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, and Junyu Dong
 
