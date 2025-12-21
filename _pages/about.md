@@ -32,22 +32,22 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 - [Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy (AAAI 2026)](https://arxiv.org/)
 
-**Xiang Li**, Yuan Cao, Zhongying Zhao, Guoqing Chao, Yanwei Yu*
+  **Xiang Li**, Yuan Cao, Zhongying Zhao, Guoqing Chao, Yanwei Yu*
   
 
 - [Multi-Channel Hypergraph Contrastive Learning for Matrix Completion (ACM TOIS)](https://dl.acm.org/doi/full/10.1145/3768319)
 
-**Xiang Li**, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
+   **Xiang Li**, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
   
 
 - [UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)](https://ieeexplore.ieee.org/abstract/document/11113091)
 
-**Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, and Yanwei Yu*
+   **Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, and Yanwei Yu*
 
 
 - [Dual-Channel Multiplex Graph Neural Networks for Recommendation (IEEE TKDE)](https://ieeexplore.ieee.org/abstract/document/10909460)
 
-**Xiang Li**, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, and Junyu Dong
+   **Xiang Li**, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, and Junyu Dong
 
 # 📖 Educations
 - *2023.08 - (now)*, Ocean University of China.
