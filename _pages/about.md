@@ -31,10 +31,12 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 # 📝 Publications 
 
 - [Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy (AAAI 2026)](https://arxiv.org/)
+
 **Xiang Li**, Yuan Cao, Zhongying Zhao, Guoqing Chao, Yanwei Yu*
   
 
 - [Multi-Channel Hypergraph Contrastive Learning for Matrix Completion (ACM TOIS)](https://dl.acm.org/doi/full/10.1145/3768319)
+
 **Xiang Li**, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
   
 
