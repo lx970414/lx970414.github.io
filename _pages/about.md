@@ -23,12 +23,20 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 My paper was accepted by AAAI 2026. 
+- *2025.09*: &nbsp;🎉🎉 My paper was accepted by ACM TOIS. 
 - *2025.03*: &nbsp;🎉🎉 My paper was accepted by ICDE 2025 Second Round. 
 - *2025.02*: &nbsp;🎉🎉 My paper was accepted by IEEE TKDE. 
 
 # 📝 Publications 
 
-- [UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d724/26FZBZRzAgU)
+- [Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy (AAAI 2026)]
+**Xiang Li**, Yuan Cao, Zhongying Zhao, Guoqing Chao, Yanwei Yu*
+
+- [Multi-Channel Hypergraph Contrastive Learning for Matrix Completion (ACM TOIS)](https://dl.acm.org/doi/full/10.1145/3768319)
+**Xiang Li**, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
+
+- [UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)](https://ieeexplore.ieee.org/abstract/document/11113091)
 
 **Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, and Yanwei Yu*
 
