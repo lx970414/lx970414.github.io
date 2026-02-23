@@ -23,12 +23,17 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 My paper was accepted by AAAI 2026. 
+- *2026.01*: &nbsp;🎉🎉 My paper was accepted by WWW 2026.
+- *2025.11*: &nbsp;🎉🎉 My paper was accepted by AAAI 2026.
 - *2025.09*: &nbsp;🎉🎉 My paper was accepted by ACM TOIS. 
 - *2025.03*: &nbsp;🎉🎉 My paper was accepted by ICDE 2025 Second Round. 
 - *2025.02*: &nbsp;🎉🎉 My paper was accepted by IEEE TKDE. 
 
 # 📝 Publications 
+
+- [ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion (WWW 2026)](https://arxiv.org/pdf/2504.15920)
+  **Xiang Li**, Jianpeng Qi, Haobing Liu, Yuan Cao, Guoqing Chao, Zhongying Zhao, Junyu Dong, Xinwang Liu, Yanwei Yu*
+  
 
 - [Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy (AAAI 2026)](https://arxiv.org/)
 
