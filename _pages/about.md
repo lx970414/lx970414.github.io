@@ -32,6 +32,7 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 # 📝 Publications 
 
 - [ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion (WWW 2026)](https://arxiv.org/pdf/2504.15920)
+
   **Xiang Li**, Jianpeng Qi, Haobing Liu, Yuan Cao, Guoqing Chao, Zhongying Zhao, Junyu Dong, Xinwang Liu, Yanwei Yu*
   
 
