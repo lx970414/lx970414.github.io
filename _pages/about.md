@@ -48,12 +48,48 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 - [UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)](https://ieeexplore.ieee.org/abstract/document/11113091)
 
-   **Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, and Yanwei Yu*
+   **Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, Yanwei Yu*
 
 
 - [Dual-Channel Multiplex Graph Neural Networks for Recommendation (IEEE TKDE)](https://ieeexplore.ieee.org/abstract/document/10909460)
 
-   **Xiang Li**, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, and Junyu Dong
+   **Xiang Li**, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, Junyu Dong
+
+
+- [MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking](https://www.ijcai.org/proceedings/2025/0322.pdf)
+
+   Yiming He, **Xiang Li**, Zhongying Zhao, Haobing Liu, Peilan He, Yanwei Yu*
+
+
+- [Local High-order Structure-aware Graph Neural Network for Motif Prediction](https://www.sciencedirect.com/science/article/pii/S0950705125006641)
+
+   Wen Yang, **Xiang Li**, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, Yanwei Yu*
+
+
+- [面向节点分类的多层异质图神经网络](https://link.cnki.net/doi/10.13328/j.cnki.jos.007440)
+
+   于朋健, **李享**, 齐建鹏, 于彦伟*, 董军宇
+
+
+- [Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation](https://drive.google.com/file/d/1iZ4VMs4IetM6CIfhigbode0Fl77oPJlJ/view?pli=1)
+
+   Changsheng Shui, **Xiang Li**, Jianpeng Qi, Guiyuan Jiang, Yanwei Yu*
+
+  
+
+- [Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference]
+
+   Liangkun Chen, **Xiang Li**, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, Yanwei Yu* 
+
+
+- [Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference]
+
+   Jingjing Zhu, **Xiang Li**, Dongliang Chen, Haobing Liu, Yuan Cao, Yanwei Yu*
+
+
+- [Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment]
+
+   Yingjie Chen, **Xiang Li**, Dongliang Chen, Guoqing Chao, Zhongying Zhao, Yanwei Yu*
 
 # 📖 Educations
 - *2023.08 - (now)*, Ocean University of China.
