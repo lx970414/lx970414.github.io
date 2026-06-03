@@ -77,17 +77,17 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
   
 
-- [Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference]
+- [Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference](https://sigma-ouc.github.io/en/papers/)
 
    Liangkun Chen, **Xiang Li**, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, Yanwei Yu* 
 
 
-- [Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference]
+- [Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference](https://sigma-ouc.github.io/en/papers/)
 
    Jingjing Zhu, **Xiang Li**, Dongliang Chen, Haobing Liu, Yuan Cao, Yanwei Yu*
 
 
-- [Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment]
+- [Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment](https://sigma-ouc.github.io/en/papers/)
 
    Yingjie Chen, **Xiang Li**, Dongliang Chen, Guoqing Chao, Zhongying Zhao, Yanwei Yu*
 
