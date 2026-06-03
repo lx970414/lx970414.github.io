@@ -33,63 +33,62 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 - [ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion (WWW 2026)](https://arxiv.org/pdf/2504.15920)
 
-  <u>**Xiang Li**</u>, Jianpeng Qi, Haobing Liu, Yuan Cao, Guoqing Chao, Zhongying Zhao, Junyu Dong, Xinwang Liu, Yanwei Yu*
+  ***Xiang Li***, Jianpeng Qi, Haobing Liu, Yuan Cao, Guoqing Chao, Zhongying Zhao, Junyu Dong, Xinwang Liu, Yanwei Yu*
   
 
 - [Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy (AAAI 2026)](https://arxiv.org/)
 
-  **Xiang Li**, Yuan Cao, Zhongying Zhao, Guoqing Chao, Yanwei Yu*
+  ***Xiang Li***, Yuan Cao, Zhongying Zhao, Guoqing Chao, Yanwei Yu*
   
 
 - [Multi-Channel Hypergraph Contrastive Learning for Matrix Completion (ACM TOIS)](https://dl.acm.org/doi/full/10.1145/3768319)
 
-   **Xiang Li**, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
+   ***Xiang Li***, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
   
 
 - [UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)](https://ieeexplore.ieee.org/abstract/document/11113091)
 
-   **Xiang Li**, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, Yanwei Yu*
+   ***Xiang Li***, Jianpeng Qi, Zhongying Zhao, Guanjie Zheng, Lei Cao, Junyu Dong, Yanwei Yu*
 
 
 - [Dual-Channel Multiplex Graph Neural Networks for Recommendation (IEEE TKDE)](https://ieeexplore.ieee.org/abstract/document/10909460)
 
-   **Xiang Li**, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, Junyu Dong
+   ***Xiang Li***, Chaofan Fu, Zhongying Zhao, Guanjie Zheng, Chao Huang, Yanwei Yu*, Junyu Dong
 
 
-- [MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking](https://www.ijcai.org/proceedings/2025/0322.pdf)
+- [Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference (IJCAI 2026)](https://sigma-ouc.github.io/en/papers/)
 
-   Yiming He, **Xiang Li**, Zhongying Zhao, Haobing Liu, Peilan He, Yanwei Yu*
-
-
-- [Local High-order Structure-aware Graph Neural Network for Motif Prediction](https://www.sciencedirect.com/science/article/pii/S0950705125006641)
-
-   Wen Yang, **Xiang Li**, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, Yanwei Yu*
+   Liangkun Chen, ***Xiang Li***, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, Yanwei Yu* 
 
 
-- [面向节点分类的多层异质图神经网络](https://link.cnki.net/doi/10.13328/j.cnki.jos.007440)
+- [Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference (IJCAI 2026)](https://sigma-ouc.github.io/en/papers/)
 
-   于朋健, **李享**, 齐建鹏, 于彦伟*, 董军宇
-
-
-- [Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation](https://drive.google.com/file/d/1iZ4VMs4IetM6CIfhigbode0Fl77oPJlJ/view?pli=1)
-
-   Changsheng Shui, **Xiang Li**, Jianpeng Qi, Guiyuan Jiang, Yanwei Yu*
-
-  
-
-- [Dual-Channel Hybrid Graph Neural Network for Mobility Social Relationship Inference](https://sigma-ouc.github.io/en/papers/)
-
-   Liangkun Chen, **Xiang Li**, Guiyuan Jiang, Zhongying Zhao, Junyu Dong, Yanwei Yu* 
+   Jingjing Zhu, ***Xiang Li***, Dongliang Chen, Haobing Liu, Yuan Cao, Yanwei Yu*
 
 
-- [Disentangled Hypergraph Network with Implicit Structure Learning for Mobility Social Relationship Inference](https://sigma-ouc.github.io/en/papers/)
+- [Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment (IJCAI 2026)](https://sigma-ouc.github.io/en/papers/)
 
-   Jingjing Zhu, **Xiang Li**, Dongliang Chen, Haobing Liu, Yuan Cao, Yanwei Yu*
+   Yingjie Chen, ***Xiang Li***, Dongliang Chen, Guoqing Chao, Zhongying Zhao, Yanwei Yu*
 
 
-- [Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment](https://sigma-ouc.github.io/en/papers/)
+- [MaskDGNN: Self-Supervised Dynamic Graph Neural Networks with Activeness-aware Temporal Masking (IJCAI 2025)](https://www.ijcai.org/proceedings/2025/0322.pdf)
 
-   Yingjie Chen, **Xiang Li**, Dongliang Chen, Guoqing Chao, Zhongying Zhao, Yanwei Yu*
+   Yiming He, ***Xiang Li***, Zhongying Zhao, Haobing Liu, Peilan He, Yanwei Yu*
+
+
+- [Local High-order Structure-aware Graph Neural Network for Motif Prediction (Knowledge-Based Systems)](https://www.sciencedirect.com/science/article/pii/S0950705125006641)
+
+   Wen Yang, ***Xiang Li***, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, Yanwei Yu*
+
+
+- [面向节点分类的多层异质图神经网络 (软件学报)](https://link.cnki.net/doi/10.13328/j.cnki.jos.007440)
+
+   于朋健, ***李享***, 齐建鹏, 于彦伟*, 董军宇
+
+
+- [Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation (ECML-PKDD 2024)](https://drive.google.com/file/d/1iZ4VMs4IetM6CIfhigbode0Fl77oPJlJ/view?pli=1)
+
+   Changsheng Shui, ***Xiang Li***, Jianpeng Qi, Guiyuan Jiang, Yanwei Yu*
 
 # 📖 Educations
 - *2023.08 - (now)*, Ocean University of China.
