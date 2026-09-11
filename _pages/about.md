@@ -43,7 +43,7 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 - [Multi-Channel Hypergraph Contrastive Learning for Matrix Completion (ACM TOIS)](https://dl.acm.org/doi/full/10.1145/3768319)
 
-   ***Xiang Li***, Changsheng Shui, Zhongying Zhao, Junyu Dong, Yanwei Yu*
+   ***Xiang Li#***, Changsheng Shui#, Zhongying Zhao, Junyu Dong, Yanwei Yu*
   
 
 - [UMGAD: Unsupervised Multiplex Graph Anomaly Detection (ICDE 2025)](https://ieeexplore.ieee.org/abstract/document/11113091)
@@ -78,7 +78,7 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 - [Local High-order Structure-aware Graph Neural Network for Motif Prediction (Knowledge-Based Systems)](https://www.sciencedirect.com/science/article/pii/S0950705125006641)
 
-   Wen Yang, ***Xiang Li***, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, Yanwei Yu*
+   Wen Yang#, ***Xiang Li#***, Bin Wang, Jianpeng Qi, Zhongying Zhao, Peilan He, Yanwei Yu*
 
 
 - [面向节点分类的多层异质图神经网络 (软件学报)](https://link.cnki.net/doi/10.13328/j.cnki.jos.007440)
@@ -88,7 +88,7 @@ My research interest includes Graph Neural Network and Data Mining. I have publi
 
 - [Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation (ECML-PKDD 2024)](https://drive.google.com/file/d/1iZ4VMs4IetM6CIfhigbode0Fl77oPJlJ/view?pli=1)
 
-   Changsheng Shui, ***Xiang Li***, Jianpeng Qi, Guiyuan Jiang, Yanwei Yu*
+   Changsheng Shui#, ***Xiang Li#***, Jianpeng Qi, Guiyuan Jiang, Yanwei Yu*
 
 # 📖 Educations
 - *2023.08 - (now)*, Ocean University of China.
